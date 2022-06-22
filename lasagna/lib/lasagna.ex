@@ -1,4 +1,4 @@
-defmodule Lasagna do
+defmodule lasagna do
     def expected_minutes_in_oven() do
       40
     end
